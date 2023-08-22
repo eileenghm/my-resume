@@ -1,0 +1,23 @@
+html {
+background: lightgoldenrodyellow;
+}
+
+h2 {
+    color:darkblue
+}
+
+
+/*class selector*/
+.red-text {
+    color:darkred
+}
+
+/*one id of this, unique*/
+#main{
+    color:green
+}
+
+/*attribute selector, when draggable=true,*/
+p[draggable] {
+    color:purple
+}
